@@ -13,6 +13,8 @@ This repository is used mainly for documents related to specific research questi
 * Layer0
 * Decentralized Storage
 * Tokenomics
+* Sharding
+* Layer2
 
 and any topic which is related with Blockchain technology.
 
