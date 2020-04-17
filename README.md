@@ -7,6 +7,10 @@ This repository is used mainly for documents related to specific research questi
 * Decentralized Governance
 * Defi
 * Blockchain Virtual Machine
+  * Move
+  * NeoVM
+  * EVM
+  * WASM
 * Formal Verification
 * Privacy Protection in Blockchain
 * Consensus
